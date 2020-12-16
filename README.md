@@ -32,6 +32,7 @@
 1. Once the project is setup you must first create a user and the user must be logged in.
 2. The users token is used to authenticate to send a message
 3. The slack webook ENV variable must be named **SLACK_HOOK**
+4. Example calls <a href="https://documenter.getpostman.com/view/6696508/TVsrEUJs">using Postman</a>
 
 ## Contributing
 
