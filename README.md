@@ -35,9 +35,10 @@
 
 ## Prerequisites
 
-1. A SlackBot with WebHook
+1. A <a href="https://api.slack.com/apps">SlackBot</a> with webhook
 2. Rails 6.0.3.4
 3. Ruby 2.7.2
+4. Frontend of your choice!
 
 
 
@@ -162,48 +163,4 @@ Some simple ideas to add on:
 [product-screenshot]: images/screenshot.png
 
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## Ideas
-
-Some simple ideas to add on:
-
-1. Return list of messages sent by a user
-2. User roles & the ability for admin to delete users
-3. Two-factor authentication via Twilio or SendGrid (both already available for use but not configured)
-4. Require user to verify their registration via SendGrid or Twilio
-<br>
-<hr>
-
-
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=security_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=bugs)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/leehodges/simple_slack_api.svg?style=for-the-badge
-[contributors-url]: https://github.com/leehodges/simple_slack-api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/leehodges/simple_slack_api.svg?style=for-the-badge
-[forks-url]: https://github.com/leehodges/simple_slack_api/network/members
-[stars-shield]: https://img.shields.io/github/stars/leehodges/simple_slack_api.svg?style=for-the-badge
-[stars-url]: https://github.com/leehodges/simple_slack_api/stargazers
-[issues-shield]: https://img.shields.io/github/issues/leehodges/simple_slack_api.svg?style=for-the-badge
-[issues-url]: https://github.com/leehodges/simple_slack_api/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/leehodges
-[product-screenshot]: images/screenshot.png
