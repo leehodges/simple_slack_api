@@ -3,8 +3,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<br><hr>
+
 
   <h3 align="center">Simple Slack API</h3>
+
 
 <br />
 <p align="center">
@@ -70,10 +73,21 @@ Some simple ideas to add on:
 2. User roles & the ability for admin to delete users
 3. Two-factor authentication via Twilio or SendGrid (both already available for use but not configured)
 4. Require user to verify their registration via SendGrid or Twilio
+<br>
+<hr>
+
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=security_rating)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=bugs)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api) 
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=leehodges_simple_slack_api&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=leehodges_simple_slack_api)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/leehodges/simple_slack_api.svg?style=for-the-badge
 [contributors-url]: https://github.com/leehodges/simple_slack-api/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/leehodges/simple_slack_api.svg?style=for-the-badge
