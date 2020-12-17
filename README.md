@@ -19,11 +19,11 @@
     <li>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#usage">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#ideas"></a><li>
+    <li><a href="#ideas">Ideas</a></li>
   </ol>
 </details>
 
