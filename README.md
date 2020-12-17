@@ -42,63 +42,6 @@
 
 
 ## Usage
-1. Once the project is setup you must first create a user and the user must be logged in.
-2. The users token is used to authenticate to send a message
-3. The slack webook ENV variable must be named **SLACK_HOOK**
-4. Example calls <a href="https://documenter.getpostman.com/view/6696508/TVsrEUJs">using Postman</a>
-5. Example returns
-<ul>
-  <li>Signup:</li>
-  ``` code ```
-  <li>Login</li>
-  <li>Logout</li>
-  <li>Post to slack</li>
-</ul>
-   
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br><hr>
-
-
-  <h3 align="center">Simple Slack API</h3>
-
-
-<br />
-<p align="center">
-  <a href="https://github.com/leehodges/simple_slack_api">
-    <img src="storage/logo.png" alt="Logo">
-  </a>
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#usage">Usage</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#ideas">Ideas</a></li>
-  </ol>
-</details>
-
-
-
-
-## Prerequisites
-
-1. A SlackBot with WebHook
-2. Rails 6.0.3.4
-3. Ruby 2.7.2
-
-
-
-## Usage
 <ol>
 <li> Once the project is setup you must first create a user and the user must be logged in.</li>
 <li> The users token is used to authenticate to send a message.</li>
