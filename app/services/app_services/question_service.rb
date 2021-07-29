@@ -9,7 +9,7 @@ module AppServices
       )
       return AppServices::ServiceContract.error(@question.errors) unless @question.valid?
       
-      poster = Slack::Poster.new(ENV['SLACK_HOOK'])
+      poster = Slack::Poster.new(Rails.application.credentials[:slack_hook])
       message = @question.message
       message = message.gsub(/\\n/, "\n")
       body = { text: message }

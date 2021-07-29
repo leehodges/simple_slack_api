@@ -6,6 +6,7 @@ module Api
     class UsersController < Api::V1::ApplicationController
       skip_before_action :authenticate, only: %i[login create accept_invitation]
 
+
       def create
 
         @current_user = AppServices::SignupService.register(params[:email], params[:first_name], params[:last_name],
